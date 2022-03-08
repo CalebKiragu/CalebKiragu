@@ -1,5 +1,5 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Caleb Kiragu
-![Follow me on Twitter](https://img.shields.io/twitter/follow/mmiikiragu?label=Follow%20me%20on%20Twitter&style=social)
+<img src="https://img.shields.io/twitter/follow/mmiikiragu?label=Follow%20me%20on%20Twitter&style=social">
 
 <!--
 **CalebKiragu/CalebKiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
