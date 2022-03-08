@@ -14,11 +14,6 @@ Looking to collaborate on unique ideas with timely potential.
 
 ---
 
-How to reach me:
-- 📫 kiragu@pesatoken.org
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebKiragu&show_icons=true)
 
 ---
@@ -29,6 +24,10 @@ How to reach me:
 
 ---
 
+How to reach me:
+- 📫 kiragu@pesatoken.org
+
+---
 
 <!--
 **CalebKiragu/CalebKiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
