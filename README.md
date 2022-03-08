@@ -3,7 +3,7 @@
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mmiikiragu?label=Follow%20%40mmiikiragu&style=social)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CalebKiragu&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebKiragu&show_icons=true)
 
 A software developer with expertise in Javascript and Typescript in Node environments. I have professional experience with the technologies listed in the **toolbox** below.
 
