@@ -1,7 +1,5 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I am Caleb Kiragu
 
----
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/mmiikiragu?label=Follow%20%40mmiikiragu&style=social)
 
 ---
