@@ -6,7 +6,7 @@
 
 A software developer with expertise in Javascript and Typescript in Node environments. I have professional experience with the technologies listed in the **toolbox** below.
 
-I'm currently working on a start up - A cryptocurrency system known as 'Pesa' (Swahili for 'money') that enables instant transactions at minimal fees. Check it out here - https://pesatoken.org/ <img src="https://pesa-images.s3.amazonaws.com/pesa-images/512trans.png" height="17px">
+I'm currently working on a startup - A cryptocurrency system known as 'Pesa' (Swahili for 'money') that enables instant transactions at minimal fees. Check it out here - https://pesatoken.org/ <img src="https://pesa-images.s3.amazonaws.com/pesa-images/512trans.png" height="17px">
 
 Looking to collaborate on unique ideas with timely potential.
 
