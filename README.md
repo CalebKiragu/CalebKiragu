@@ -24,7 +24,7 @@ Interested in unique ideas with timely potential.
 ---
 
 How to reach me:
-- 📫 kiragu@pesatoken.org
+- 📫 calebdavidbusiness@gmail.com
 
 ---
 
