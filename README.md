@@ -1,6 +1,6 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I am Caleb Kiragu
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ck1ragu?label=Follow%20%40ck1ragu&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ck1ragu?label=Follow%20%40kiraguxx&style=social)
 
 ---
 
