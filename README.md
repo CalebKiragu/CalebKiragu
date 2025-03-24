@@ -13,7 +13,7 @@ Interested in unique ideas with timely potential.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebKiragu&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudeomosa&show_icons=true)
 
 ---
 
