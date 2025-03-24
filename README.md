@@ -1,10 +1,10 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I am Caleb Kiragu
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ck1ragu?label=Follow%20%40kiraguxx&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/kiraguxx?label=Follow%20%40kiraguxx&style=social)
 
 ---
 
-A software developer with expertise in Javascript and Typescript in Node environments. I have professional experience with the technologies listed in the **toolbox** below.
+A software developer with expertise in Typescript and C#. I have professional experience with the technologies listed in the **toolbox** below.
 
 Currently on Pesa Token - Seamless Infrasctructure to trade, convert, invest, save and pay with crypto. 
 https://pesatoken.org/ <img src="https://pesa-images.s3.amazonaws.com/pesa-images/512trans.png" height="17px">
@@ -13,7 +13,7 @@ Interested in unique ideas with timely potential.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudeomosa&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudeomosa&show_icons=true)-->
 
 ---
 
