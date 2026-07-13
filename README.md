@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Caleb+Kiragu;%7C+building+the+intelligence+layer" alt="Caleb Kiragu — typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=920&height=100&lines=Caleb+Kiragu;building+the+intelligence+layer+for+the+agent+economy" alt="Caleb Kiragu — typing header" />
 
   <br/>
 
@@ -18,7 +18,7 @@
 
   <p>
     <a href="https://datayetu.com"><img src="https://img.shields.io/badge/DataYetu-intelligence_layer-0D9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDAgMjAgMTAgMTAgMCAwIDAgMC0yMHptMCAxNGE0IDQgMCAxIDAgMC04IDQgNCAwIDAgMCAwIDh6Ii8+PC9zdmc+" alt="DataYetu" /></a>
-    <a href="https://pesatoken.org"><img src="https://img.shields.io/badge/Pesa_Token-crypto_rails-111827?style=for-the-badge&logo=solana&logoColor=14F195" alt="Pesa Token" /></a>
+    <a href="https://sisi.ke"><img src="https://img.shields.io/badge/SISI-community-111827?style=for-the-badge" alt="SISI" /></a>
     <a href="https://twitter.com/kiraguxx"><img src="https://img.shields.io/badge/@kiraguxx-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="mailto:calebdavidbusiness@gmail.com"><img src="https://img.shields.io/badge/email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -31,8 +31,8 @@
 
 ```bash
 $ cat ~/kiragu.bio
-> Engineer shipping the intelligence layer for emerging markets @ DataYetu
-> Crypto rails, wallet intelligence, and payment primitives for Africa
+> Engineer shipping the intelligence layer for the agent economy @ DataYetu
+> Community platforms, health rails, and remote developer tooling
 > TypeScript & C# — APIs, agents, and products that survive real-world chaos
 > Curious about unique ideas with timely potential
 ```
@@ -59,12 +59,34 @@ Turn real human interaction into structured, AI-ready intelligence — native la
 </td>
     <td width="50%" valign="top">
 
-#### [Pesa Token](https://pesatoken.org)
-**Crypto infrastructure**
+#### [SISI-Community](https://sisi.ke)
+**Business discovery & marketplace**
 
-Seamless rails to trade, convert, invest, save, and pay with crypto — built for how money actually moves.
+Local business directory, marketplace, leadership tracking, and community events — type-safe full-stack TypeScript for real neighborhoods.
 
-[`pesatoken.org`](https://pesatoken.org)
+[`sisi.ke`](https://sisi.ke) · [`@SISI-Community`](https://github.com/SISI-Community)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### [MenoDAO](https://menodao.org)
+**Dental health chama on-chain**
+
+Community-governed dental micro-insurance for Kenya — digitize the chama, settle clinic claims fast, make oral care affordable.
+
+[`menodao.org`](https://menodao.org) · [`@MenoDAO`](https://github.com/MenoDAO)
+
+</td>
+    <td width="50%" valign="top">
+
+#### [RemoteDevTools](https://github.com/RemoteDevTools)
+**Remote developer tooling**
+
+Agent, extension, and web surface for debugging and shipping across remote environments — tooling for how teams actually work.
+
+[`@RemoteDevTools`](https://github.com/RemoteDevTools)
 
 </td>
   </tr>
@@ -128,6 +150,16 @@ Seamless rails to trade, convert, invest, save, and pay with crypto — built fo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalebKiragu&theme=dark&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub streak" width="450" />
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CalebKiragu/CalebKiragu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CalebKiragu/CalebKiragu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CalebKiragu/CalebKiragu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ### connect
@@ -135,12 +167,13 @@ Seamless rails to trade, convert, invest, save, and pay with crypto — built fo
 <div align="center">
 
   ```text
-  ┌─────────────────────────────────────────┐
-  │  email   calebdavidbusiness@gmail.com   │
-  │  web     datayetu.com                   │
-  │  x       @kiraguxx                      │
-  │  orgs    @DataYetu · @SISI-Community    │
-  └─────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────┐
+  │  email   calebdavidbusiness@gmail.com            │
+  │  web     datayetu.com · sisi.ke · menodao.org    │
+  │  x       @kiraguxx                               │
+  │  orgs    @DataYetu · @SISI-Community · @MenoDAO  │
+  │          @RemoteDevTools                         │
+  └──────────────────────────────────────────────────┘
   ```
 
   <a href="mailto:calebdavidbusiness@gmail.com">
@@ -151,6 +184,6 @@ Seamless rails to trade, convert, invest, save, and pay with crypto — built fo
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 
-  <sub>building where AI meets real markets · Nairobi</sub>
+  <sub>building the intelligence layer for the agent economy · Nairobi</sub>
 
 </div>
