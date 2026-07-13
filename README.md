@@ -1,43 +1,156 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I am Caleb Kiragu
-
-![Twitter Follow](https://img.shields.io/twitter/follow/kiraguxx?label=Follow%20%40kiraguxx&style=social)
-
----
-
-A software developer with expertise in Typescript and C#. I have professional experience with the technologies listed in the **toolbox** below.
-
-Currently on Pesa Token - Seamless Infrasctructure to trade, convert, invest, save and pay with crypto. 
-https://pesatoken.org/ <img src="https://pesa-images.s3.amazonaws.com/pesa-images/512trans.png" height="17px">
-
-Interested in unique ideas with timely potential.
-
----
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudeomosa&show_icons=true)-->
-
----
-
-🧰 Toolbox
-
-<img alt="JS logo" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" /> <img alt="Node logo" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> <img alt="Express logo" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" height="50" /> <img alt="Mocha logo" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" width="50" height="50" /> <img alt="MongoDB logo" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" /> <img alt="MySQL logo" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> <img alt="NPM logo" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" height="50" /> <img alt="Yarn logo" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" width="50" height="50" /> <img alt="Git logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" /> <img alt="AWS logo" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" /> <img alt="Nginx logo" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50" height="50" /> <img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50" height="50" /> <img alt="CSS logo" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img alt="TS logo" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" /> <img alt="Angular logo" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="50" height="50" /> <img alt="React logo" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" /> <img alt="Next logo" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" /> 
-
----
-
-How to reach me:
-- 📫 calebdavidbusiness@gmail.com
-
----
-
 <!--
-**CalebKiragu/CalebKiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Profile README — Caleb Kiragu
+  https://github.com/CalebKiragu
 -->
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Caleb+Kiragu;%7C+building+the+intelligence+layer" alt="Caleb Kiragu — typing header" />
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+
+  <p>
+    <strong>ars gratia artis</strong> · software engineer · Nairobi<br/>
+    <em>TypeScript · C# · systems that move money and meaning</em>
+  </p>
+
+  <p>
+    <a href="https://datayetu.com"><img src="https://img.shields.io/badge/DataYetu-intelligence_layer-0D9488?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDAgMjAgMTAgMTAgMCAwIDAgMC0yMHptMCAxNGE0IDQgMCAxIDAgMC04IDQgNCAwIDAgMCAwIDh6Ii8+PC9zdmc+" alt="DataYetu" /></a>
+    <a href="https://pesatoken.org"><img src="https://img.shields.io/badge/Pesa_Token-crypto_rails-111827?style=for-the-badge&logo=solana&logoColor=14F195" alt="Pesa Token" /></a>
+    <a href="https://twitter.com/kiraguxx"><img src="https://img.shields.io/badge/@kiraguxx-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:calebdavidbusiness@gmail.com"><img src="https://img.shields.io/badge/email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+</div>
+
+---
+
+### `whoami`
+
+```bash
+$ cat ~/kiragu.bio
+> Engineer shipping the intelligence layer for emerging markets @ DataYetu
+> Crypto rails, wallet intelligence, and payment primitives for Africa
+> TypeScript & C# — APIs, agents, and products that survive real-world chaos
+> Curious about unique ideas with timely potential
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=680&lines=AI+fails+without+human+context.;Real+markets.+Real+languages.+Real+systems.;Ship+infrastructure%2C+not+demos." alt="Focus lines" />
+</div>
+
+---
+
+### currently shipping
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### [DataYetu](https://datayetu.com)
+**Intelligence layer for emerging markets**
+
+Turn real human interaction into structured, AI-ready intelligence — native language, cultural nuance, continuous pipelines. Not synthetic. Not generic.
+
+[`datayetu.com`](https://datayetu.com) · [`@DataYetu`](https://github.com/DataYetu)
+
+</td>
+    <td width="50%" valign="top">
+
+#### [Pesa Token](https://pesatoken.org)
+**Crypto infrastructure**
+
+Seamless rails to trade, convert, invest, save, and pay with crypto — built for how money actually moves.
+
+[`pesatoken.org`](https://pesatoken.org)
+
+</td>
+  </tr>
+</table>
+
+---
+
+### selected work
+
+<div align="center">
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| **[solsend](https://github.com/CalebKiragu/solsend)** | Shareable Solana payment links — one-time, recurring, escrow-protected SOL / USDC | TypeScript |
+| **[chainafric](https://github.com/CalebKiragu/chainafric-api)** | Track any wallet, across any chain — in your native language | TypeScript |
+| **[refacto-ai](https://github.com/CalebKiragu/refacto-ai)** | Code documenter & repo manager for JS, TS, and Python | Python |
+| **[DataYetu/agent](https://github.com/DataYetu/agent)** | Agent surface for the DataYetu intelligence layer | TypeScript |
+| **[news-api](https://github.com/CalebKiragu/news-api)** | Crypto financial news service | C# |
+
+</div>
+
+<p align="center">
+  <a href="https://solsend-seven.vercel.app"><img src="https://img.shields.io/badge/live-solsend-2DD4BF?style=flat-square&logo=vercel&logoColor=white" alt="solsend live" /></a>
+  <a href="https://chainafric.pesatoken.org"><img src="https://img.shields.io/badge/live-chainafric-14F195?style=flat-square&logo=solana&logoColor=black" alt="chainafric live" /></a>
+</p>
+
+---
+
+### toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,csharp,nodejs,react,nextjs,angular,express,mongodb,mysql,aws,nginx,git,py,dotnet&perline=8" alt="Tech stack" />
+</div>
+
+<br/>
+
+<details>
+<summary><strong>expanded stack</strong></summary>
+<br/>
+
+| Layer | Tools |
+|:------|:------|
+| **Languages** | TypeScript, JavaScript, C#, Python |
+| **Runtime / API** | Node.js, Express, .NET |
+| **Frontend** | React, Next.js, Angular |
+| **Data** | MongoDB, MySQL |
+| **Infra** | AWS, Nginx, Git, npm / yarn |
+
+</details>
+
+---
+
+### signal
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CalebKiragu&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&ring_color=2DD4BF&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebKiragu&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8&bg_color=00000000" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalebKiragu&theme=dark&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub streak" width="450" />
+</div>
+
+---
+
+### connect
+
+<div align="center">
+
+  ```text
+  ┌─────────────────────────────────────────┐
+  │  email   calebdavidbusiness@gmail.com   │
+  │  web     datayetu.com                   │
+  │  x       @kiraguxx                      │
+  │  orgs    @DataYetu · @SISI-Community    │
+  └─────────────────────────────────────────┘
+  ```
+
+  <a href="mailto:calebdavidbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/let's_build_something-2DD4BF?style=for-the-badge&logoColor=000&color=2DD4BF" alt="Let's build" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+
+  <sub>building where AI meets real markets · Nairobi</sub>
+
+</div>
