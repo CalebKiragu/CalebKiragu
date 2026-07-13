@@ -142,8 +142,8 @@ Agent, extension, and web surface for debugging and shipping across remote envir
 ### signal
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CalebKiragu&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&ring_color=2DD4BF&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebKiragu&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8&bg_color=00000000" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=CalebKiragu&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&ring_color=2DD4BF&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CalebKiragu&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8&bg_color=00000000" alt="Top languages" />
 </div>
 
 <div align="center">
